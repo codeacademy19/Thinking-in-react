@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductRow should render a row with value as Product Category 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th>
+        Name
+      </th>
+      <th>
+        Price
+      </th>
+    </tr>
+  </thead>
+  <tbody />
+</table>
+`;

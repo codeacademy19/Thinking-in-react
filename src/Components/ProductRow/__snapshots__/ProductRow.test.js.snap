@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductRow should render a row with value as Product Category 1`] = `
+<tr>
+  <td>
+    Football
+  </td>
+  <td>
+    $49.99
+  </td>
+</tr>
+`;
+
+exports[`ProductRow should render a row with value as Product Category 2`] = `
+<tr>
+  <td>
+    <span
+      style={
+        Object {
+          "color": "red",
+        }
+      }
+    >
+      Football
+    </span>
+  </td>
+  <td>
+    $49.99
+  </td>
+</tr>
+`;

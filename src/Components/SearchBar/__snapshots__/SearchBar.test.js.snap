@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar should render a Search box and a check box 1`] = `
+<form>
+  <input
+    className="TextArea"
+    onChange={[Function]}
+    placeholder="Search..."
+    type="text"
+  />
+  <p>
+    <input
+      className="CheckBox"
+      onChange={[Function]}
+      type="checkbox"
+    />
+     
+    Only show products in stock
+  </p>
+</form>
+`;
